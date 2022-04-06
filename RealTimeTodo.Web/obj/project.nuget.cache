@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "sqcWAxJv6VsfKlIcXNGbeCLnPlq+f4Jd4U6vERJxybsRRZeS1nSDbSe3PPHSluYboGSPAutuC1kIA/SdUEaMvw==",
+  "dgSpecHash": "EfeBLKp5eDwkOQLwYt31H3uS/cZhX0tiyDWg2mY7WgQsv/hzYR8p/02MTfPh8EGEJ+znnSZ/HUnAN9FpuvVWTQ==",
   "success": true,
   "projectFilePath": "D:\\Dev\\learn\\SignalRTodoApp\\RealTimeTodo.Web\\RealTimeTodo.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\huisheng\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.3\\microsoft.aspnetcore.spaservices.extensions.6.0.3.nupkg.sha512",
+    "C:\\Users\\huisheng\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\huisheng\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\huisheng\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\huisheng\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\huisheng\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
